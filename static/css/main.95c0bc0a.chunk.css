@@ -1,0 +1,2 @@
+.clock{font-size:20px;color:#daa520}.Clock{position:absolute;top:50%;left:50%;margin:-80px 0 0 -280px;display:flex;align-items:center;border:2px solid #daa520;border-radius:10px;width:500px;padding:20px;flex-direction:column}.Clock__message{color:rgba(255,0,0,.664);font-weight:700;font-size:20px}.Clock__message,.Clock__wrap{text-align:center}.button{margin-right:10px}
+/*# sourceMappingURL=main.95c0bc0a.chunk.css.map */
